@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//techmithlesh.github.io/Reacttodoapp/static/css/main.8e7e161a.css",
+    "main.js": "/http//techmithlesh.github.io/Reacttodoapp/static/js/main.984e0b2b.js",
+    "index.html": "/http//techmithlesh.github.io/Reacttodoapp/index.html",
+    "main.8e7e161a.css.map": "/http//techmithlesh.github.io/Reacttodoapp/static/css/main.8e7e161a.css.map",
+    "main.984e0b2b.js.map": "/http//techmithlesh.github.io/Reacttodoapp/static/js/main.984e0b2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7e161a.css",
+    "static/js/main.984e0b2b.js"
+  ]
+}
